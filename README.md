@@ -5,14 +5,6 @@
 
 I’m a passionate software developer with a strong foundation in **full-stack web development** and growing expertise in **cloud technologies**. I enjoy building scalable, secure, and user-friendly applications that solve real-world problems.
 
----
-
-## 💡 About Me
-- 🎓 Bachelor’s degree in **Business Information Technology**
-- 💻 Experience in **Full-Stack Development & IT Support**
-- ☁️ Exploring **Cloud Architecture, DevOps & Scalable Systems**
-- 🔧 I love refactoring legacy code and optimizing performance
-- 🌍 Always learning and experimenting with modern tech stacks
 
 ---
 
