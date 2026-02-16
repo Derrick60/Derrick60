@@ -1,4 +1,64 @@
 ## Hi there 👋
+# Hi there 👋, I'm Derrick Ingalia
+
+🚀 **Cloud & Software Developer** | Full-Stack Engineer | IT Systems Enthusiast
+
+I’m a passionate software developer with a strong foundation in **full-stack web development** and growing expertise in **cloud technologies**. I enjoy building scalable, secure, and user-friendly applications that solve real-world problems.
+
+---
+
+## 💡 About Me
+- 🎓 Bachelor’s degree in **Business Information Technology**
+- 💻 Experience in **Full-Stack Development & IT Support**
+- ☁️ Exploring **Cloud Architecture, DevOps & Scalable Systems**
+- 🔧 I love refactoring legacy code and optimizing performance
+- 🌍 Always learning and experimenting with modern tech stacks
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web
+- PHP, JavaScript, jQuery
+- HTML5, CSS3, Bootstrap, Tailwind CSS
+- Laravel, React, Inertia.js
+- REST APIs
+
+### ☁️ Cloud & DevOps
+- Linux (Ubuntu)
+- Docker (basics)
+- CI/CD concepts
+- Cloud fundamentals (AWS / Azure learning path)
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MS SQL
+
+### 🧰 Tools & Others
+- Git & GitHub
+- Power BI
+- System Analysis & Design
+- IT Support & Troubleshooting
+
+---
+
+## 📌 What I’m Working On
+- 🔹 Cloud-ready Laravel & React applications  
+- 🔹 Scalable CRUD systems & dashboards  
+- 🔹 Automating deployments and learning DevOps best practices  
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: *Add your link here*
+- 🌐 Portfolio: *Add your link here*
+- 📧 Email: *Add your email*
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
+
 # Derrick here !
 
 # 💻 Tech Stack:
