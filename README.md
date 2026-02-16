@@ -1,9 +1,9 @@
-## Hi there 👋
+
 # Hi there 👋, I'm Derrick Ingalia
 
 🚀 **Cloud & Software Developer** | Full-Stack Engineer | IT Systems Enthusiast
 
-I’m a passionate software developer with a strong foundation in **full-stack web development** and growing expertise in **cloud technologies**. I enjoy building scalable, secure, and user-friendly applications that solve real-world problems.
+I’m a passionate software developer with a strong foundation in **full-stack web development** and  expert in **cloud technologies**. I enjoy building scalable, secure, and user-friendly applications that solve real-world problems.
 
 
 ---
@@ -20,12 +20,11 @@ I’m a passionate software developer with a strong foundation in **full-stack w
 - Linux (Ubuntu)
 - Docker (basics)
 - CI/CD concepts
-- Cloud fundamentals (AWS / Azure learning path)
+- Cloud fundamentals (AWS / Azure / Digital Ocean)
 
 ### 🗄️ Databases
 - PostgreSQL
 - MySQL
-- MS SQL
 
 ### 🧰 Tools & Others
 - Git & GitHub
@@ -42,8 +41,6 @@ I’m a passionate software developer with a strong foundation in **full-stack w
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: *Add your link here*
-- 🌐 Portfolio: *Add your link here*
 - 📧 Email: *derrickriziki7@gmail.com*
 
 ---
