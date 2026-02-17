@@ -41,6 +41,7 @@ I’m a passionate software developer with a strong foundation in **full-stack w
 ---
 
 ## 📫 Let’s Connect
+- 🌐 Portfolio: https://derrick-ingalia-portfolio.vercel.app/
 - 📧 Email: *derrickriziki7@gmail.com*
 
 ---
